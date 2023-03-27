@@ -1,12 +1,12 @@
 header{
     background-color: rgb(15, 133, 230) ;
     background-image: url('pattern.png');
-    height:  50px
+    background-size:  cover;
 }
 
-.logo{
+/*.logo{
     height:  50px
-}
+}*/
 
 .text-grey{
     color: grey;
