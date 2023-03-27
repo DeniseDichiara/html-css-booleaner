@@ -57,3 +57,10 @@
 .yellow{
     background-color: yellow;
 }
+
+.sorgente tr:nth-child(even){
+    background-color: white;
+}
+.sorgente tr:nth-child(odd) {
+     background-color: lightblue; 
+    }
