@@ -58,9 +58,47 @@
     background-color: yellow;
 }
 
+.table-header{
+    background-color: rgb(15, 133, 230);
+}
+
+.table-text{
+    color: white;
+}
+
 .sorgente tr:nth-child(even){
     background-color: white;
 }
 .sorgente tr:nth-child(odd) {
      background-color: lightblue; 
     }
+
+.monitor{
+    margin: 0px;
+    background-image: url('monitor.jpg');
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background-color: red;
+    font-size: 160%;
+    font-weight: bold;
+    line-height: 260px;
+    text-align: center;
+    width: 240px;
+    height: 150px;
+
+}
+
+.graph{
+    margin: 0px;
+    background-image: url('graph.jpg');
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background-color: red;
+    font-size: 160%;
+    font-weight: bold;
+    line-height: 260px;
+    text-align: center;
+    width: 240px;
+    height: 150px;
+
+}
